@@ -1,0 +1,62 @@
+:root {
+  --main-col: rgb(140,0,0);
+  --main2-col: rgb(200,0,0);
+  --bg_col: rgb(14,14,14);
+  --nil_col: rgba(0,0,0,0);
+}
+
+body {
+	background-color: var(--bg_col);
+}
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.name_title {
+	font-family: Arial;
+	font-size: 60px;
+	color: var(--main-col);
+}
+.down {
+	color: var(--main-col);
+    position: absolute;
+    bottom: 0px;
+	font-family: Arial;
+	font-size: 15px;
+
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+}
+.down_but {
+	color: var(--main-col);
+	font-size: 30px;
+  	text-decoration: none;
+  	border: solid 3px;
+  	border-radius: 5px;
+  	padding: 3px;
+}
+.down_but:hover {
+	color: black;
+	font-size: 30px;
+	background-color: var(--main-col);
+}
+hr {
+ border: none;
+ background-color: var(--main-col);
+ color: var(--main-col);
+ height: 8px;
+}
+p {
+	color: var(--main-col);
+	font-family: Arial;
+	margin-top: 0px;
+}
+h1 {
+	color: var(--main-col);
+	font-family: Arial;
+	margin-top: 0px;
+}
