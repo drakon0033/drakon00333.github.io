@@ -16,8 +16,8 @@ body {
     flex-direction: column;
 }
 .info {
-    min-width: 250px;
-    width: 250px;
+    min-width: 300px;
+    width: 300px;
     display: flex;
     background: none;
     padding: 35px;
@@ -30,8 +30,8 @@ body {
     border: rgb(194, 159, 182) solid 1px;
 }
 .buttons {
-    min-width: 250px;
-    width: 250px;
+    min-width: 290px;
+    width: 290px;
     display: flex;
     padding: 0px;
     border-radius: 0px; 
