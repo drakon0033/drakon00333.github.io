@@ -75,7 +75,7 @@ a.link {
 .pizdec {
     position: relative;
     display: inline-flex;
-    padding: 0.3em;
+    padding: 0.1em;
 }
 
 a.link:hover,
