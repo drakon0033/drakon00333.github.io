@@ -30,8 +30,8 @@ body {
     border: rgb(194, 159, 182) solid 1px;
 }
 .buttons {
-    min-width: 300px;
-    width: 300px;
+    min-width: 100px;
+    width: 100px;
     display: flex;
     padding: 0px;
     border-radius: 20px; 
