@@ -34,7 +34,7 @@ body {
     width: 100px;
     display: flex;
     padding: 0px;
-    border-radius: 20px; 
+    border-radius: 0px; 
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -khtml-border-radius: 10px;
