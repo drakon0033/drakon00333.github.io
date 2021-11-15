@@ -30,8 +30,8 @@ body {
     border: rgb(194, 159, 182) solid 1px;
 }
 .buttons {
-    min-width: 500px;
-    width: 500px;
+    min-width: 300px;
+    width: 300px;
     display: flex;
     padding: 0px;
     border-radius: 20px; 
@@ -51,7 +51,7 @@ a.link {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -khtml-border-radius: 10px;
-    width: 300px;
+    width: 0px;
     text-align: center;
     text-decoration: none;
     transition: .2s;
