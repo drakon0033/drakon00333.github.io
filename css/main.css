@@ -16,42 +16,42 @@ body {
     flex-direction: column;
 }
 .info {
-    min-width: 300px;
-    width: 300px;
+    min-width: 270px;
+    width: 270px;
     display: flex;
     background: none;
     padding: 35px;
     color: rgb(247, 192, 250);
-    border-radius: 16px; 
+    border-radius: 10px; 
     -webkit-border-radius: 16px;
     -moz-border-radius: 16px;
     -khtml-border-radius: 16px;
     -webkit-backdrop-filter: blur(10px);
-    border: rgb(194, 159, 182) solid 1px;
+    border: rgb(229, 168, 255) solid 1px;
 }
 .buttons {
-    min-width: 100px;
-    width: 100px;
+    min-width: 250px;
+    width: 250px;
     display: flex;
     padding: 0px;
     border-radius: 0px; 
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -khtml-border-radius: 10px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -khtml-border-radius: 7px;
 }
 a.link {
     -webkit-tap-highlight-color: rgba(255,255,255,0);
     -moz-tap-highlight-color: rgba(255,255,255,0);
     padding: 3px 10px; 
     margin: 4px;
-    background: rgb(255, 194, 235);
+    background: rgb(229, 168, 255);
     color: rgb(0,0,0);
     cursor: pointer;
-    border-radius: 10px; 
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -khtml-border-radius: 10px;
-    width: 0px;
+    border-radius: 8px; 
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -khtml-border-radius: 8px;
+    width: 256px;
     text-align: center;
     text-decoration: none;
     transition: .2s;
@@ -59,7 +59,7 @@ a.link {
 }
 
 .avatar-container {
-    margin: 0 0.4em 0 0;
+    margin: 0 0.4em 0 z;
     display: inline-flex;
     justify-content: center;
     align-items: flex-end;
@@ -75,13 +75,13 @@ a.link {
 .pizdec {
     position: relative;
     display: inline-flex;
-    padding: 0.1em;
+    padding: 0.3em;
 }
 
 a.link:hover,
 button:hover {
     background: #fff6;
-    color: rgb(230,163,207);
+    color: rgb(229, 168, 255);
 }
 
 button:active, button:focus {
