@@ -42,14 +42,14 @@ body {
 a.link {
     -webkit-tap-highlight-color: rgba(255,255,255,0);
     -moz-tap-highlight-color: rgba(255,255,255,0);
-    padding: 3px 10px; 
+    padding: 10px 10px; 
     margin: 4px;
     background: rgb(229, 168, 255);
     color: rgb(0,0,0);
     cursor: pointer;
     border-radius: 8px; 
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
+    -webkit-border-radius: 83px;
+    -moz-border-radius: 33px;
     -khtml-border-radius: 8px;
     width: 256px;
     text-align: center;
@@ -68,7 +68,7 @@ a.link {
 .avatar {
     width: 10em;
     height: 10em;
-    border-radius: 5.6em;
+    border-radius: 5;
     border: rgb(255, 191, 234) solid 0px;
 }
 
