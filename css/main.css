@@ -20,9 +20,9 @@ body {
     width: 270px;
     display: flex;
     background: none;
-    padding: 50px;
+    padding: 10px;
     color: rgb(247, 192, 250);
-    border-radius: 30px; 
+    border-radius: 10px; 
     -webkit-border-radius: 16px;
     -moz-border-radius: 16px;
     -khtml-border-radius: 16px;
