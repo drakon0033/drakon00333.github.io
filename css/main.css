@@ -27,7 +27,7 @@ body {
     -moz-border-radius: 16px;
     -khtml-border-radius: 16px;
     -webkit-backdrop-filter: blur(10px);
-    border: rgb(229, 168, 255) solid 1px;
+    border: rgb(229, 168, 255) solid 5px;
 }
 .buttons {
     min-width: 250px;
